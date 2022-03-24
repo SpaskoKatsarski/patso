@@ -1,0 +1,16 @@
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\bin\Debug\net5.0\T01. The Imitation Game.exe
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\bin\Debug\net5.0\T01. The Imitation Game.deps.json
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\bin\Debug\net5.0\T01. The Imitation Game.runtimeconfig.json
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\bin\Debug\net5.0\T01. The Imitation Game.runtimeconfig.dev.json
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\bin\Debug\net5.0\T01. The Imitation Game.dll
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\bin\Debug\net5.0\ref\T01. The Imitation Game.dll
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\bin\Debug\net5.0\T01. The Imitation Game.pdb
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\obj\Debug\net5.0\T01. The Imitation Game.csproj.AssemblyReference.cache
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\obj\Debug\net5.0\T01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\obj\Debug\net5.0\T01. The Imitation Game.AssemblyInfoInputs.cache
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\obj\Debug\net5.0\T01. The Imitation Game.AssemblyInfo.cs
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\obj\Debug\net5.0\T01. The Imitation Game.csproj.CoreCompileInputs.cache
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\obj\Debug\net5.0\T01. The Imitation Game.dll
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\obj\Debug\net5.0\ref\T01. The Imitation Game.dll
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\obj\Debug\net5.0\T01. The Imitation Game.pdb
+C:\Users\patso\source\repos\FinalExamPracticing\T01. The Imitation Game\obj\Debug\net5.0\T01. The Imitation Game.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\bin\Debug\net5.0\T03. The Pianist.exe
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\bin\Debug\net5.0\T03. The Pianist.deps.json
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\bin\Debug\net5.0\T03. The Pianist.runtimeconfig.json
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\bin\Debug\net5.0\T03. The Pianist.runtimeconfig.dev.json
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\bin\Debug\net5.0\T03. The Pianist.dll
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\bin\Debug\net5.0\ref\T03. The Pianist.dll
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\bin\Debug\net5.0\T03. The Pianist.pdb
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\obj\Debug\net5.0\T03. The Pianist.csproj.AssemblyReference.cache
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\obj\Debug\net5.0\T03. The Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\obj\Debug\net5.0\T03. The Pianist.AssemblyInfoInputs.cache
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\obj\Debug\net5.0\T03. The Pianist.AssemblyInfo.cs
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\obj\Debug\net5.0\T03. The Pianist.csproj.CoreCompileInputs.cache
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\obj\Debug\net5.0\T03. The Pianist.dll
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\obj\Debug\net5.0\ref\T03. The Pianist.dll
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\obj\Debug\net5.0\T03. The Pianist.pdb
+C:\Users\patso\source\repos\FinalExamPracticing\T03. The Pianist\obj\Debug\net5.0\T03. The Pianist.genruntimeconfig.cache

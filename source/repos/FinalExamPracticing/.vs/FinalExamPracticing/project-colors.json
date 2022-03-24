@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d46a8ff5-dffd-46fd-aebc-5d7ec2d929a0": {
+      "ProjectGuid": "d46a8ff5-dffd-46fd-aebc-5d7ec2d929a0",
+      "DisplayName": "Demo",
+      "ColorIndex": 0
+    },
+    "3daac4ce-3b1a-4c49-b897-e5a52aeb4c57": {
+      "ProjectGuid": "3daac4ce-3b1a-4c49-b897-e5a52aeb4c57",
+      "DisplayName": "T01. The Imitation Game",
+      "ColorIndex": 1
+    },
+    "3fb7a7c7-3fb1-4b45-a328-09cc309860ca": {
+      "ProjectGuid": "3fb7a7c7-3fb1-4b45-a328-09cc309860ca",
+      "DisplayName": "T02. Ad Astra",
+      "ColorIndex": 2
+    },
+    "1a1ba7c2-0c21-46b7-a08b-f8d846b23efb": {
+      "ProjectGuid": "1a1ba7c2-0c21-46b7-a08b-f8d846b23efb",
+      "DisplayName": "T03. The Pianist",
+      "ColorIndex": 3
+    },
+    "64cfe50c-9b10-4141-bb7a-3f49cadd29fe": {
+      "ProjectGuid": "64cfe50c-9b10-4141-bb7a-3f49cadd29fe",
+      "DisplayName": "T02. Destination Mapper",
+      "ColorIndex": 4
+    },
+    "db1bd5d1-a752-4f6c-9042-60dd15ec27b5": {
+      "ProjectGuid": "db1bd5d1-a752-4f6c-9042-60dd15ec27b5",
+      "DisplayName": "T01. World Tour",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
